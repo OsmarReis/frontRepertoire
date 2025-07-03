@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+body{
+  background-color: #00810F;
+}
+
 @theme{
   --color-main-col: #00810F;
   --color-orange-strong: #FF7700;
