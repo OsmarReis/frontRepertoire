@@ -1,9 +1,5 @@
 @import "tailwindcss";
 
-body{
-  background-color: #00810F;
-}
-
 @theme{
   --color-main-col: #00810F;
   --color-orange-strong: #FF7700;
@@ -16,5 +12,6 @@ body{
   --color-black-75: rgba(0,0,0,0.75);
   --color-black-50: rgba(0,0,0,0.5);
 }
+
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
